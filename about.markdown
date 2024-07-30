@@ -4,9 +4,18 @@ title: About
 permalink: /about/
 ---
 
-# Hi! I'm Syeedur Rahman
-A motivated, adaptive, and responsible computer science graduate always thriving to add value to the organization and to self-development by utilizing the professional and technical skills developed through past experiences. I have a methodical, customer-focused approach to work and a strong drive to see things through to completion.
+## Hi there, I’m Leigh Stewardson!
+I started my career as a designer. I was very good at the details of the software programs I was using and began to teach. Through the years, I became curious about how software was created and why some products were hard to use while others were intuitive. This led me to my second career in UI design and frontend development. I taught myself HTML, CSS and JavaScript and soon began designing and building my own user-centric, React and Node applications.
 
-Currently, I am pursuing a master's degree at Texas Tech University in Computer Science and Engineering. Before that, I was working as a Software Developer at Bangladesh Japan Information Technology (BJIT) for  6+ years.
+I’m passionate about building beautiful and user-centric products for the web. I am a lifelong learner who loves to teach, which has led to my role as a Product Manager in the EdTech space.
 
-I am passionate about building web, desktop and intergarion applications in a distributed computing environment focusing on performance, scalability, and stability
+I currently looking for work that utilizes my expertise and industry knowledge and allows me to grow as a Product Manager and strategist.
+
+## My Skills
+### Technical Skills
+
+{% include technicalskills.markdown %}
+
+### Soft Skills
+
+{% include softskills.markdown %}
